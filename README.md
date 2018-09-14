@@ -1,4 +1,18 @@
-# Sample code for Microsoft Office Add-Ins Development
+# Sample code and resources for Microsoft Office Add-Ins Development
+
+This repository contains example code and resources for the course [Microsoft Office Add-Ins for Developers](https://www.linkedin.com/learning/microsoft-office-add-ins-for-developers) on LinkedIn Learning and Lynda.com.
+
+## Sample code
+
+See the following repositories for the code samples from the course:
+
+| Chapter       | Code Repository   | 
+| ------------- |-------------------| 
+| 2             | PowerPoint Web Add-in (included in course exercise files)  | 
+| 4             | [Glossary Add-in](https://github.com/SPDoctor/Glossary) |
+| 5             |       | 
+| zebra stripes | are neat      |  
+
 
 ## Useful links:
 
