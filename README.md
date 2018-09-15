@@ -10,7 +10,7 @@ See the following repositories for the code samples from the course:
 | ------------- |-------------------| 
 | 2             | PowerPoint Web Add-in (included in course exercise files)  | 
 | 4             | [Glossary Word Add-in](https://github.com/SPDoctor/Glossary) |
-| 5             | [Excel Add-in](https://github.com/SPDoctor/ReactorDemo)     | 
+| 5             | [Excel Add-in](https://github.com/SPDoctor/ExcelDemo)     | 
 | 6             | [ReactorDemo Outlook Add-in](https://github.com/SPDoctor/ReactorDemo)     |  
 
 
